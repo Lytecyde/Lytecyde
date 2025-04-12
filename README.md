@@ -8,7 +8,8 @@
 - 💞️ I’m looking to collaborate on ...
 - SpiesForPeace
 - 📫 How to reach me ...
-- gmail 
+- mik seljamaa
+- gmail.com 
 
 <!---
 Lytecyde/Lytecyde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
