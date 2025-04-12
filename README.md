@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Lytecyde
 - 👀 I’m interested in ...
-- phaser 
-- websocket
-- mern and redux
-- vitest  
+- phaser  
 - 🌱 I’m currently learning ...
-- testing and chatgpt
+- testing
+-  ai usage
+-  ai prompting
 - 💞️ I’m looking to collaborate on ...
 - SpiesForPeace
 - 📫 How to reach me ...
